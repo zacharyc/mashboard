@@ -1,0 +1,10 @@
+# Ignore all node modules
+node_modules
+
+# Ignore Mac OS stupidness
+.DS_Store
+
+# Ignore editor junk
+.idea
+atlassian-ide-plugin.xml
+TEST-*.xml
